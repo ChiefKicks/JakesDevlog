@@ -9,8 +9,11 @@ I had a multitude of issues when programming the final. In particular the spawni
 I made little bit-art sprites for each of the enemies. While they may look ugly, I like them a lot. There is the standard orange fish, the basic enemy type. There is the yellow fish with a faster movement speed than the other fish, and lastly there is the big purple pufferfish, that bounces with a force of gravity. The game functions by spawning in one of three options. These options are...
 
 -3 orange fish
+
 -3 yellow fish
+
 -2 purple fish
+
 
 There is also the chance for all three enemy types to spawn at once.
 
