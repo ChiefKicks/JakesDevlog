@@ -4,5 +4,7 @@ I also used the estuary a bit by myself to try out out making solo beats. It was
 trying to mix and match and what terrible rhythms were possible.
 When I get more time after midterms, I will be willing to try and live code with others more.
 These lines make pretty good beats
+
 -every 1 (rev) $ sound "kurt kurt  [kurt kurt kurt]"
+
 -every 1 (rev) $ sound "bd*2 [bd [sn sn*2 sn] sn]"
