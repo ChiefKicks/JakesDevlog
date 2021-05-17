@@ -11,7 +11,7 @@ these muscles together.
 
 According to a quote from The [NSF](https://nsf2026imgallery.skild.com/entries/emergence-complexity-from-the-bottom-up), Emergence can be defined as,
 
-> “ When parts of a system interact by simple mechanisms to create complex collective behavior impossible for any individual component.”
+> “When parts of a system interact by simple mechanisms to create complex collective behavior impossible for any individual component.”
 
 To me it means when small aspects combine and create a more complex mechanism, like various muscle programs combining to create a walking man. 
 When turning my most recent program into an array, it just gave me a lot of cats that chased the red dot, however, they all eventually reached the same speed and orbit, 
