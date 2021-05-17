@@ -1,4 +1,5 @@
 # JakesDevlog
+
 My class devlog for Drawing, Moving, and Seeing with Code.
 
 
@@ -21,7 +22,7 @@ Final Project 4/28/2021 - 5/13/2021
 
 
 
-LOGO
+[LOGO](Devlog1.md)
 
 [Algorithmic Walk](https://chiefkicks.github.io/JakesDevlog/AlgorithmicWalk)
 
