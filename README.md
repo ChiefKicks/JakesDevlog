@@ -24,8 +24,8 @@ Final Project 4/28/2021 - 5/13/2021
 
 [LOGO](Devlog1.md)
 
-[Algorithmic Walk](https://chiefkicks.github.io/JakesDevlog/AlgorithmicWalk)
+[Algorithmic Walk](AlgorithmicWalk.md)
 
-[Devlog2: AARON-No Paint ](https://chiefkicks.github.io/JakesDevlog/2:AARON-NOPAINT)
+[AARON-No Paint](devlog2.md)
 
-[Devlog on Artificial Intelligence ](https://chiefkicks.github.io/JakesDevlog/AIDevlog)
+[Artificial Intelligence](AIDevlog.md)
