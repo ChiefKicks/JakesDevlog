@@ -1,6 +1,6 @@
- Find your own examples or check Discord for examples of artificial life (aka a-life) or a project exploring emergence that you have found that relates to the ideas in this text. 
+_Find your own examples or check Discord for examples of artificial life (aka a-life) or a project exploring emergence that you have found that relates to the ideas in this text. 
  This could either be from an artwork, a computer program or a real life process. Investigate it further online. How does it demonstrate emergence/bottom-up design?
- (Also, be sure to explain what emergence means to you).
+ (Also, be sure to explain what emergence means to you)._
 
 While trying to understand the concept of Artificial Life, I read an article from “The Gradient”, titled, “Introduction to Artificial Life for People who Like AI”. 
 To my understanding, it is coding a program or creature that acts as though it is alive, or would mean it would, “respond to stimuli, adapt to its environment, reproduce and 
