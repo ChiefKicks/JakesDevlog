@@ -7,11 +7,7 @@ My class devlog for Drawing, Moving, and Seeing with Code.
 
 Experimenting with LOGO 2/4/20/21
 
-walking with algorithms 2/11/2021
 
-AARON and NoPaint 2/18/2021
-
-Alife 3/4/2021-3/11/2021
 
 Estuary 3/18/2021
 
