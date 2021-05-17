@@ -29,3 +29,13 @@ Final Project 4/28/2021 - 5/13/2021
 [AARON-No Paint](devlog2.md)
 
 [Artificial Intelligence](AIDevlog.md)
+
+[Estuary Devlog](LiveCoding-Estuary.md)
+
+[Hydra Devlog](HydraCoding.md)
+
+[SES/Squirrels](SquirrelEatSquirrel.md)
+
+[Final Devlog](FinalProjectDevlog.md)
+
+
