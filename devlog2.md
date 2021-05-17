@@ -6,8 +6,31 @@ I am not sure if this name would be at all offensive, so it would be open to cha
 I am not sure what issues could arise from this program, but I could go in and play notes for the program if the audio track doesn’t register. 
 
 
+![]({{site.baseurl}}//nopaint1.PNG)
+
+![]({{site.baseurl}}//nopaint2.PNG)
+
+![]({{site.baseurl}}//nopaint3.PNG)
+
+![]({{site.baseurl}}//nopaint4.PNG)
+
+![]({{site.baseurl}}//nopaint5.PNG)
+
+![]({{site.baseurl}}//nopaint6.PNG)
+
+![]({{site.baseurl}}//nopaint7.PNG)
+
+![]({{site.baseurl}}//nopaint8.PNG)
+
+![]({{site.baseurl}}//nopaint9.PNG)
+
+![]({{site.baseurl}}//nopaint10.PNG)
+
 
 “No paint” was a fun program to create with. I would consider it my artwork, as I chose how it moved and what it made.
 Allowing the program to pick shapes and choosing my own allowed for an enjoyable experience. The randomness added a degree of fun into it and not knowing what comes next. 
 I will be sure to include more randomness into my artwork, as it added a new variable into the creation. 
 In life, randomness is good in moderation, as it is important to have stability.
+
+
+
